@@ -22,3 +22,8 @@ The information on this platform will help in the peer learning and this will al
 Objective: 
 
 To develop an online integrated platform for projects taken up by the students of various universities/colleges.
+
+
+
+
+      Project By: ATMIKA DASH
